@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data science, linux administrator and git/github 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- i'm guessing that if you put a bar in the beggining of the line, it will show in the file 
 que pedazo de virgo que me siento haciendo esta descripcion XD
 <!---
 Marcos126/Marcos126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
