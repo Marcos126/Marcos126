@@ -1,6 +1,6 @@
 - 👋 Hi, i'm Marcos Natale
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Web development, Front END ( HTML5 and CSS )
+- 🌱 I’m currently learning Data science, linux administrator and git/github 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
